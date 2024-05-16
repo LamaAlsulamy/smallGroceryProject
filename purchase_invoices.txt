@@ -6,3 +6,31 @@ Tomato - SAR 3.00
 Total amount: SAR SAR 3.00
 -------------------
 
+----- Invoice -----
+Date: الخميس 16 مايو 2024 +03 23:51:19
+Customer: Lama
+Delivery: No
+Grapes - SAR 4.00
+Pineapple - SAR 5.50
+Peach - SAR 4.50
+Total amount: SAR SAR 14.00
+-------------------
+
+----- Invoice -----
+Date: الخميس 16 مايو 2024 +03 23:52:27
+Customer: Layan
+Delivery: Yes
+Pineapple - SAR 5.50
+Cherry - SAR 8.00
+Total amount: SAR SAR 13.50
+-------------------
+
+----- Invoice -----
+Date: الخميس 16 مايو 2024 +03 23:53:17
+Customer: Ghala
+Delivery: Yes
+Strawberry - SAR 5.00
+Cherry - SAR 8.00
+Total amount: SAR SAR 13.00
+-------------------
+
