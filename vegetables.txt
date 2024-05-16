@@ -1,0 +1,20 @@
+Carrot
+Tomato
+Onion
+Potato
+Cucumber
+Spinach
+Broccoli
+Cauliflower
+Bell Pepper
+Garlic
+Lettuce
+Kale
+Zucchini
+Mushroom
+Green Peas
+Cabbage
+Beetroot
+Radish
+Leek
+Celery
